@@ -84,7 +84,7 @@
       "id": "design-lab",
       "name": "design-lab",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": "Interactive design exploration workflow: conduct interviews, generate variants, and refine UI designs through feedback.",
       "path": "skills/design/design-lab"
     },
@@ -92,7 +92,7 @@
       "id": "fixing-metadata",
       "name": "fixing-metadata",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": ">",
       "path": "skills/design/fixing-metadata"
     },
@@ -100,7 +100,7 @@
       "id": "frontend-design",
       "name": "frontend-design",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
       "path": "skills/design/frontend-design"
     },
@@ -108,7 +108,7 @@
       "id": "interaction-design",
       "name": "interaction-design",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": "Design and implement microinteractions, motion design, transitions, and user feedback patterns. Use when adding polish to UI interactions, implementing loading states, or creating delightful user experiences.",
       "path": "skills/design/interaction-design"
     },
@@ -116,7 +116,7 @@
       "id": "interface-design",
       "name": "interface-design",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": "Specialized skill for interface design: dashboards, admin panels, and SaaS apps. Focused on craft and consistency.",
       "path": "skills/design/interface-design"
     },
@@ -124,7 +124,7 @@
       "id": "responsive-design",
       "name": "responsive-design",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": "Implement modern responsive layouts using container queries, fluid typography, CSS Grid, and mobile-first breakpoint strategies. Use when building adaptive interfaces, implementing fluid layouts, or creating component-level responsive behavior.",
       "path": "skills/design/responsive-design"
     },
@@ -132,7 +132,7 @@
       "id": "ui-ux-pro-max",
       "name": "ui-ux-pro-max",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": "Comprehensive UI/UX design intelligence with 50+ styles, 97 palettes, and 9 technology stacks for building professional interfaces.",
       "path": "skills/design/ui-ux-pro-max"
     },
@@ -140,7 +140,7 @@
       "id": "web-design-guidelines",
       "name": "web-design-guidelines",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": "Review UI code for Vercel Web Interface Guidelines compliance. Audit accessibility, forms, animation, typography, performance, navigation, and interaction patterns.",
       "path": "skills/design/web-design-guidelines"
     },
@@ -148,7 +148,7 @@
       "id": "web-design-reviewer",
       "name": "web-design-reviewer",
       "category": "design",
-      "group": "other",
+      "group": "design",
       "description": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and layout breakage, then performs fixes at the source code level.",
       "path": "skills/design/web-design-reviewer"
     },
@@ -356,7 +356,7 @@
       "id": "analytics-tracking",
       "name": "analytics-tracking",
       "category": "marketing",
-      "group": "other",
+      "group": "marketing",
       "description": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions \"set up tracking,\" \"GA4,\" \"Google Analytics,\" \"conversion tracking,\" \"event tracking,\" \"UTM parameters,\" \"tag manager,\" \"GTM,\" \"analytics implementation,\" or \"tracking plan.\" For A/B test measurement, see ab-test-setup.",
       "path": "skills/marketing/analytics-tracking"
     },
@@ -364,7 +364,7 @@
       "id": "landing-page",
       "name": "landing-page",
       "category": "marketing",
-      "group": "other",
+      "group": "marketing",
       "description": "Use when designing or rewriting a high-converting landing page (single-offer page) for SaaS/apps/services. Covers structure, layout patterns, conversion strategies, copywriting, SEO/AEO, and common pitfalls.",
       "path": "skills/marketing/landing-page"
     },
@@ -372,7 +372,7 @@
       "id": "marketing-psychology",
       "name": "marketing-psychology",
       "category": "marketing",
-      "group": "other",
+      "group": "marketing",
       "description": "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' or 'consumer behavior.' This skill provides 70+ mental models organized for marketing application.",
       "path": "skills/marketing/marketing-psychology"
     },
@@ -516,17 +516,17 @@
   "categories": [
     "animation",
     "tailwind",
-    "ux",
-    "ui",
+    "design",
     "accessibility",
     "design-systems",
     "illustration",
-    "webdesign",
     "figma",
     "dev-process",
     "workflows",
     "wordpress",
     "flutter",
-    "swiftui"
+    "swiftui",
+    "marketing",
+    "copywriting"
   ]
 }

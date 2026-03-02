@@ -7,9 +7,10 @@ const skillsDir = path.join(__dirname, '../../skills');
 const outputFile = path.join(__dirname, '../src/data/skills.json');
 
 const categoryGroups = {
-  design: ['animation', 'tailwind', 'ux', 'ui', 'accessibility', 'design-systems', 'illustration', 'webdesign', 'figma'],
+  design: ['animation', 'tailwind', 'design', 'accessibility', 'design-systems', 'illustration', 'figma'],
   development: ['dev-process', 'workflows'],
-  platform: ['wordpress', 'flutter', 'swiftui']
+  platform: ['wordpress', 'flutter', 'swiftui'],
+  marketing: ['marketing', 'copywriting']
 };
 
 function getGroup(category) {
